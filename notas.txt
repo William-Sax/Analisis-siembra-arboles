@@ -1,0 +1,32 @@
+Crear un repositorio llamado análisis siembra arboles y resuelva analizando labase
+de datos compartida:
+- Crear index.html que incluya banner, footer y diseño a la medida a elección del 
+grupo con enlace a cada github de los miembros del equipo
+
+- Incluir menú de opciones (Yarumal, Santa fé de Antioquia, Caucasia,
+Belmira, Bello, Caramanta)
+
+#- FILTRO1: Encontrar todos los datos de santa fe de Antioquia donde se
+tengan siembras de + de 250 arboles
+
+#- FILTRO2: Filtrar todos los datos de Acandi e interpretar sus estadísticas
+
+- FILTRO 3: Filtrar todos los datos de las veredas Rio arriba y la Salazar de
+Belmira
+
+#- FILTRO 4: Encontrar los datos de las veredas de Hunguia mostrando
+además las medias de cada ítem del dataframe
+
+#- FILTRO 5: Encontrar todos los datos de nuqui donde se tengan siembras
+de + de 100 arboles
+
+- FILTRO 6: Encontrar los datos de las vereda  del municipio de
+Capurgana
+
+- Cada municipio debe tener una vista .html que muestre una imagen del
+casco urbano del municipio, enlace a google maps de cada municipio y una
+tabla generada desde Python que facilite lavisualización de los datos
+
+- Incluya gráficas a su elección para resumir la información
+Finalmente se debe enviar una solución única haciendo merge de todas
+las ramas de cada programador del equipo
